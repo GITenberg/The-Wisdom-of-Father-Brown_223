@@ -1,0 +1,42 @@
+_repo: The-Wisdom-of-Father-Brown_223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Title; Contents; One The Absence of Mr Glass; Two The Paradise of Thieves;
+  Three The Duel of Dr Hirsch; Four The Man in the Passage; Five The Mistake of the
+  Machine; Six The Head of Caesar; Seven The Purple Wig; Eight The Perishing of the
+  Pendragons; Nine The God of the Gongs; Ten The Salad of Colonel Cray; Eleven The
+  Strange Crime of John Boulnois; Twelve The Fairy Tale of Father Brown.
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '1995-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Brown, Father (Fictitious character) -- Fiction'
+- !lcsh 'Catholics -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories, English'
+- GITenberg
+tableOfContents: The absence of Mr. Glass -- The paradise of thieves -- The duel of
+  Dr. Hirsch -- The man in the passage -- The mistake of the machine -- The head of
+  Caesar -- The purple wig -- The perishing of the Pendragons -- The god of the gongs
+  -- The salad of Colonel Cray -- The strange crime of John Boulnois -- The fairy
+  tale of Father Brown.
+title: The Wisdom of Father Brown
+url: http://www.gutenberg.org/ebooks/223
