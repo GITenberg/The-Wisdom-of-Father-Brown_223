@@ -1,5 +1,8 @@
 _repo: The-Wisdom-of-Father-Brown_223
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -16,6 +19,8 @@ description: Title; Contents; One The Absence of Mr Glass; Two The Paradise of T
   Machine; Six The Head of Caesar; Seven The Purple Wig; Eight The Perishing of the
   Pendragons; Nine The God of the Gongs; Ten The Salad of Colonel Cray; Eleven The
   Strange Crime of John Boulnois; Twelve The Fairy Tale of Father Brown.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/223#The-Wisdom-of-Father-Brown
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '1995-02-01'
 gutenberg_type: Text
